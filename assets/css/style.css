@@ -3801,6 +3801,10 @@ hr::before,
     color: #dfd9d7;
 }
 
+div#intro {
+  background-image: linear-gradient(to bottom, rgba(12, 17, 13, 0.5), rgba(12, 17, 13, 0.1));
+}
+
 main {
   color: #0c110d;
   background-image: linear-gradient(to bottom, #3d7039, #120d0c);
