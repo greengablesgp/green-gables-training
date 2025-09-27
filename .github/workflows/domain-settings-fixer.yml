@@ -1,0 +1,41 @@
+name: Check and Add File
+
+on:
+  push:
+    branches: 
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Required for both checkout and push
+
+jobs:
+  check-and-add-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Check for file
+        id: check_file
+        run: |
+          if [ -f "CNAME.txt" ]; then
+            echo "File exists."
+            echo "file_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "File does not exist."
+            echo "file_exists=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Add file if missing
+        if: steps.check_file.outputs.file_exists == 'false'
+        run: |
+          echo "greengablestraining.co.za" > CNAME.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CNAME.txt
+          git commit -m "Added missing CNAME after Publii sync"
+          git push
