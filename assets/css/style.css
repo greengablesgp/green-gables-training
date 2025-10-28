@@ -45,7 +45,7 @@
       --headings-style:     normal;
       --headings-letter-spacing: 0.07em;
       --headings-line-height: 1.75;  
-      --color:              #3A3A3A;   
+      --color:              #520D08;   
     }    
   html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3794,37 +3794,33 @@ hr::before,
   padding: 0.2em 0.4em 0.4em 0.4em;
   background-image: linear-gradient(to bottom, rgba(61, 112, 57, 0.3), rgba(12, 17, 13, 0.5));
   border: 3px solid;
-  border-image: linear-gradient(to bottom right, #6B6B6B, #EFEFEF,#7A7A7A) 1
+  border-image: linear-gradient(to bottom right, #ad9f4e, #b5983a, #dfd9d7, #ad9f4e, #e9efe9, #b5983a, #ad9f4e) 1
 }
 
 #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-    color: #EFEFEF;
-}
-
-div#intro {
-  background-image: linear-gradient(to bottom, rgba(12, 17, 13, 0.5), rgba(12, 17, 13, 0.1));
+    color: #dfd9d7;
 }
 
 main {
-  color: #EFEFEF;
-  background-image: linear-gradient(to bottom, #A8B9A5, #7A7A7A);
+  color: #0c110d;
+  background-image: linear-gradient(to bottom, #3d7039, #120d0c);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #0A0A0A;
+    color: #520d08;
 }
 
 article {
-  color: #0A0A0A;
-  background-image: linear-gradient(to bottom, #efefef, #A8B9A5);
+  color: #0c110d;
+  background-image: linear-gradient(to bottom, #dfd9d7, #f0e7b2);
   border: 4px solid;
-  border-color: #EFEFEF;
+  border-image: linear-gradient(to bottom right, #ad9f4e, #b5983a, #dfd9d7, #ad9f4e, #e9efe9, #b5983a, #ad9f4e) 1;
 }
 
 #intro a:link {
-  background-color: #9DB39A;
-  color: #0A0A0A;
-  border: 2px solid #EFEFEF;
+  background-color: rgba(61, 112, 57, 0.2);
+  color: #dfd9d7;
+  border: 2px solid #ad9f4e;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -3832,9 +3828,9 @@ article {
 }
 
 #intro a:visited {
-  background-color: #7A7A7A;
-  color: #EFEFEF;
-  border: 2px solid #EFEFEF;
+  background-color: rgba(82, 13, 8, 0.5);
+  color: #dfd9d7;
+  border: 2px solid #ad9f4e;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -3842,14 +3838,14 @@ article {
 }
 
 #intro a:hover, a:active {
-  background-color: #EFEFEF;
-  color: #0A0A0A;
+  background-color: #dfd9d7;
+  color: #0c110d;
 }
 
 a.specbut:link {
-  background-color: #9DB39A;
-  color: #0A0A0A;
-  border: 2px solid #EFEFEF;
+  background-color: #3d7039;
+  color: #dfd9d7;
+  border: 2px solid #ad9f4e;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -3857,9 +3853,9 @@ a.specbut:link {
 }
 
 a.specbut:visited {
-  background-color: #0A0A0A;
-  color: #EFEFEF;
-  border: 2px solid #EFEFEF;
+  background-color: #420b07;
+  color: #ad9f4e;
+  border: 2px solid #ad9f4e;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -3867,8 +3863,8 @@ a.specbut:visited {
 }
 
 a.specbut:hover, a.specbut:active {
-  background-color: #EFEFEF;
-  color: #0A0A0A;
+  background-color: #ad9f4e;
+  color: #420b07;
 }
 
 table {
