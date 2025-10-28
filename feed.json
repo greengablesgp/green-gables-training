@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://greengablesgp.github.io/green-gables-training/horse-buying-assistance/",
+            "url": "https://greengablesgp.github.io/green-gables-training/horse-buying-assistance/",
+            "title": "Horse Buying Assistance",
+            "summary": "Take stress, time, and cost out of viewing sales horses. I discuss your requirements in advance, do first trial ride for you and video entire experience. I report back with call or write-up. Suitable for out-of-towners. Ensure your safety or that of your child and only go see the horses that are most appropriate. Packages starting at R500/viewing.",
+            "content_html": "<p>Take stress, time, and cost out of viewing sales horses. I discuss your requirements in advance, do first trial ride for you and video entire experience. I report back with call or write-up. Suitable for out-of-towners. Ensure your safety or that of your child and only go see the horses that are most appropriate. <strong>Packages starting at R500/viewing.</strong></p>",
+            "image": "https://greengablesgp.github.io/green-gables-training/media/posts/10/514527819_10152348053929990_5288885633745665798_n.jpg",
+            "author": {
+                "name": "Kelly O&#x27;Keefe"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-28T19:22:12+02:00",
+            "date_modified": "2025-10-28T19:41:21+02:00"
+        },
+        {
             "id": "https://greengablesgp.github.io/green-gables-training/contact-info-2/",
             "url": "https://greengablesgp.github.io/green-gables-training/contact-info-2/",
             "title": "Tailored Full-Time Program",
@@ -23,14 +38,14 @@
             "tags": [
             ],
             "date_published": "2025-08-11T17:49:29+02:00",
-            "date_modified": "2025-10-28T19:17:03+02:00"
+            "date_modified": "2025-10-28T19:40:38+02:00"
         },
         {
             "id": "https://greengablesgp.github.io/green-gables-training/what-i-offer-2/",
             "url": "https://greengablesgp.github.io/green-gables-training/what-i-offer-2/",
-            "title": "Training Sessions at Your Yard",
-            "summary": "I am not simply an exercise rider: I offer training rides working on positive experiences, straightness, suppleness, balance, responsiveness, strength, and a happy horse. Contact me for pricing WHATSAPP EMAIL",
-            "content_html": "\n  <p>\n    I am not simply an exercise rider: I offer training rides working on positive experiences, straightness, suppleness, balance, responsiveness, strength, and a happy horse.<br><br><strong>Contact me for pricing</strong><br>\n  </p>\n<div><h5 class=\"align-center\"><br><a class=\"specbut\" href=\"https://wa.me/27799986675?text=%2AWebsite%20Enquiry%2A%20Please%20leave%20this%20line%20here%20so%20that%20I%20have%20context%20for%20your%20message.%0D%0A\" title=\"Opens a Chat in WhatsApp\" target=\"_blank\" rel=\"noopener\">WHATSAPP</a>    <a class=\"specbut\" href=\"mailto:kelly@greengables.co.za?subject=GREEN%GABLES%20WEBSITE%20ENQUIRY\" title=\"Opens a new email in your email client\" target=\"_blank\" rel=\"noopener\">EMAIL</a><br></h5>\n</div>",
+            "title": "Training Sessions",
+            "summary": "&nbsp;I offer training rides at your yard focused on positive experiences, confidence, straightness, suppleness, balance, responsiveness, strength, and a happy horse. Contact me for pricing WHATSAPP EMAIL",
+            "content_html": "\n  <p>\n    &nbsp;I offer training rides at your yard focused on positive experiences, confidence, straightness, suppleness, balance, responsiveness, strength, and a happy horse.<br><br><strong>Contact me for pricing</strong><br>\n  </p>\n<div><h5 class=\"align-center\"><br><a class=\"specbut\" href=\"https://wa.me/27799986675?text=%2AWebsite%20Enquiry%2A%20Please%20leave%20this%20line%20here%20so%20that%20I%20have%20context%20for%20your%20message.%0D%0A\" title=\"Opens a Chat in WhatsApp\" target=\"_blank\" rel=\"noopener\">WHATSAPP</a>    <a class=\"specbut\" href=\"mailto:kelly@greengables.co.za?subject=GREEN%GABLES%20WEBSITE%20ENQUIRY\" title=\"Opens a new email in your email client\" target=\"_blank\" rel=\"noopener\">EMAIL</a><br></h5>\n</div>",
             "image": "https://greengablesgp.github.io/green-gables-training/media/posts/8/kelly-no-23-2.jpg",
             "author": {
                 "name": "Kelly O&#x27;Keefe"
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2025-08-11T17:49:29+02:00",
-            "date_modified": "2025-10-28T19:04:37+02:00"
+            "date_modified": "2025-10-28T19:20:48+02:00"
         },
         {
             "id": "https://greengablesgp.github.io/green-gables-training/about-me-3/",
@@ -53,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2025-08-11T17:49:25+02:00",
-            "date_modified": "2025-09-08T16:28:12+02:00"
+            "date_modified": "2025-10-28T19:21:25+02:00"
         }
     ]
 }
