@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://greengablesgp.github.io/green-gables-training/sitemap.xml
+Sitemap: https://greengablestraining.co.za/sitemap.xml
